@@ -1,0 +1,3 @@
+Check out the Source/Examples.cpp for examples.
+
+Currently supports two implementations: backwards propagation and genetic algorithms (this seems to be broken atm).
